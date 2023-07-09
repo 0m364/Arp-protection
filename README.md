@@ -1,2 +1,2 @@
 # Arp-protection
-Replace arp.log with your arps 
+Replace arp.log with your arp log path
